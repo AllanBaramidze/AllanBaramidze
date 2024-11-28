@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AllanBaramidze
-- 👀 I’m interested in machine learning in finace
+- 👀 I’m interested in machine learning in finance
 - 🌱 I’m currently learning pyhton3 / java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
